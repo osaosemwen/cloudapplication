@@ -1,1 +1,1 @@
-# cloudapplication
+In this page I would show how to deploy applications on your local machine test the application and move the application to the cloud. I would be using Docker for start, then move to kubernetes, on the local machine, then to both google cloud and AWS
